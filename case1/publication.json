@@ -1,0 +1,66 @@
+{
+    "@context": [
+        "https://schema.org",
+        "https://www.w3.org/ns/pub-context"
+    ],
+    "conformsTo": "https://www.w3.org/TR/audiobooks/",
+    "type": "Audiobook",
+    "id": "forward_example01",
+    "url": "https://bobbytung.github.io/Audiobooks/",
+    "name": "前進",
+    "author": "賴和",
+    "readBy": "張心哲",
+    "abridged": true,
+    "accessMode": ["audio", "text"],
+    "accessModeSufficient": [{
+        "type": "ItemList",
+        "itemListElement": ["audio", "text"],
+        "description": "audio and text"
+    }],
+    "accessibilityFeature": ["readingOrder", "unlocked", "tableOfContents", "highContrastDisplay"],
+    "accessibilityHazard": "none",
+    "accessibilitySummary": "有聲內容在PEP中具目錄，也有獨立目錄，並提供同步旁白，音訊位於遠端。.",
+    "dateModified": "2020-12-15",
+    "datePublished": "1928",
+    "inLanguage": "zh-TW", 
+    "readingProgression": "ltr",
+    "duration": "PT610S",
+    "readingOrder": [
+        {
+            "url": "https://bobbytung.github.io/Audiobooks/forward.mp3",
+            "encodingFormat": "audio/mpeg",
+            "name": "前進",
+            "duration": "PT610S",
+            "alternate": {
+                "type": "LinkedResource",
+                "url": "sync/forward.json",
+                "encodingFormat": "application/vnd.syncnarr+json"
+            }
+        }
+    ],
+    "resources": [
+        {
+            "url": "cover.jpg",
+            "encodingFormat": "image/jpeg",
+            "name": "Cover",
+            "rel": "cover"
+        },
+        {
+            "url": "index.html",
+            "encodingFormat": "text/html",
+            "name": "Primary Entry Page",
+            "rel": "contents"
+        },
+        {
+		    "url": "toc.html",
+		    "encodingFormat": "text/html",
+		    "name":"Table of Contents",
+		    "rel": "contents"
+    	},
+    	{
+		    "url": "html/forward.html",
+		    "encodingFormat": "text/html",
+		    "name":"Text"
+    	}
+    ]
+}
