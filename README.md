@@ -8,7 +8,7 @@
 
 ## 作品
 
-- 標題：前進
+- 標題：[前進](https://zh.m.wikisource.org/zh-hant/前進)
 - 作者：賴和
 - 封面圖片：[賴和紀念碑](http://cls.lib.ntu.edu.tw/laihe/A/a_05.htm)（彰化城鄉局攝影）
 
