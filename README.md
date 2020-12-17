@@ -2,6 +2,8 @@
 
 符合W3C[有聲書](https://www.w3.org/TR/audiobooks/)規格製作，另參考[出版品宣告](https://www.w3.org/TR/pub-manifest/)。
 
+範本Case1線上展示：https://bobbytung.github.io/worlds-best-audiobook/web/library/
+
 - 製作者：董福興
 
 -----
