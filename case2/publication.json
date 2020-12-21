@@ -5,8 +5,8 @@
     ],
     "conformsTo": "https://www.w3.org/TR/audiobooks/",
     "type": "Audiobook",
-    "id": "forward_example01",
-    "url": "https://bobbytung.github.io/Audiobooks/",
+    "id": "forward_example02",
+    "url": "https://dpublishing.github.io/Audiobooks/",
     "name": "前進",
     "author": "賴和",
     "readBy": "張心哲",
@@ -27,7 +27,7 @@
     "duration": "PT610S",
     "readingOrder": [
         {
-            "url": "https://bobbytung.github.io/Audiobooks/forward.mp3",
+            "url": "https://dpublishing.github.io/Audiobooks/forward.mp3",
             "encodingFormat": "audio/mpeg",
             "name": "前進",
             "duration": "PT610S",
