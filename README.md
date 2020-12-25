@@ -16,9 +16,9 @@
 
 ## 錄音資訊
 
-- 配音員：張心哲（鏡好聽聲音主播）
+- 配音員：[張心哲](https://www.facebook.com/changhsinche)（鏡好聽聲音主播）
 - 錄音室：[GBH Studio](https://www.facebook.com/gbhstudiotw/)
-- 剪接師：Kevin Chen
+- 剪接師：[Kevin Chen](https://www.facebook.com/greedyblackhole/)
 
 ## 範本製作
 
