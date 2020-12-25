@@ -1,4 +1,4 @@
-# 數位出版聯盟有聲書範本
+# 台灣數位出版聯盟有聲書範本
 
 本專案之目的是為了提供一組符合W3C Audiobooks有聲書規格之中文實作參考範本。範本採用有「台灣現代文學之父」尊稱的賴和所創作之詩化散文作品「前進」作為內容素材進行製作。
 
@@ -12,7 +12,7 @@
 
 - 標題：[前進](https://zh.m.wikisource.org/zh-hant/前進)
 - 作者：[賴和](https://zh.wikipedia.org/wiki/%E8%B3%B4%E5%92%8C)
-- 封面圖片：[賴和紀念碑](http://cls.lib.ntu.edu.tw/laihe/A/a_05.htm)（彰化城鄉局攝影）
+- 封面：[賴和紀念碑](http://cls.lib.ntu.edu.tw/laihe/A/a_05.htm)（彰化城鄉局攝影）
 
 ## 錄音資訊
 
