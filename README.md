@@ -2,7 +2,7 @@
 
 本專案之目的是為了提供一組符合W3C Audiobooks有聲書規格之中文實作參考範本。範本採用有「台灣現代文學之父」尊稱的賴和所創作之詩化散文作品「前進」作為內容素材進行製作。
 
-範本內容符合W3C[有聲書](https://www.w3.org/TR/audiobooks/)規格，並參考W3C[出版品宣告](https://www.w3.org/TR/pub-manifest/)製作五種不同參考範例。範例一可透過另外實作之線上展示進行觀看：[https://dpublishing.github.io/worlds-best-audiobook/web/library/](https://dpublishing.github.io/worlds-best-audiobook/web/library/)
+範本內容符合[W3C Audiobooks有聲書](https://www.w3.org/TR/audiobooks/)規格，並參考[W3C出版品宣告](https://www.w3.org/TR/pub-manifest/)製作五種不同參考範例。範例一可透過另外實作之線上展示進行觀看：[https://dpublishing.github.io/worlds-best-audiobook/web/library/](https://dpublishing.github.io/worlds-best-audiobook/web/library/)
 
 > 注意：範本中所使用之同步旁白（文字語音同步）為尚在製定中之標準，請自行評估使用。
 
@@ -27,7 +27,7 @@
 
 -----
 
-## 範本說明：
+## 範本說明
 
 ### 範例一、具備所有元素的有聲書範本（Case 1）
 
