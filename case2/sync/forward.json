@@ -1,5 +1,5 @@
 {"properties":
-{"text":"../html/forward.html","audio":"https://dpublishing.github.io/Audiobooks/forward.mp3","sync-media-css-class-active":"-active-element","sync-media-css-class-playing":"-document-playing"},
+{"text":"../html/forward.html","audio":"https://dpublishing.github.io/audiobooks-samples/forward.mp3","sync-media-css-class-active":"-active-element","sync-media-css-class-playing":"-document-playing"},
 "role":"document","narration":[
 	{"text":"#sn-00","audio":"#t=0,8.36"},
 	{"text":"#sn-0","audio":"#t=8.36,11.99"},
