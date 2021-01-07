@@ -5,17 +5,23 @@
     ],
     "conformsTo": "https://www.w3.org/TR/audiobooks/",
     "type": "Audiobook",
-    "id": "forward_example05",
-    "url": "https://dpublishing.github.io/Audiobooks/",
+    "id": "urn:uuid:cb9e666f-981c-40ae-a3c7-12c257b4a700",
+    "url": "https://dpublishing.github.io/audiobooks-samples/",
     "name": "前進",
-    "author": "賴和",
-    "readBy": "張心哲",
-    "abridged": true,
-    "accessMode": ["audio"],
+    "author": {
+        "type": "Person",
+        "name": "賴和"
+    },
+    "readBy": {
+        "type": "Person",
+        "name": "張心哲"
+    },
+    "abridged": false,
+    "accessMode": ["auditory"],
     "accessModeSufficient": [{
         "type": "ItemList",
-        "itemListElement": ["audio"],
-        "description": "audio"
+        "itemListElement": "auditory",
+        "description": "有聲內容"
     }],
     "accessibilityFeature": ["readingOrder", "unlocked"],
     "accessibilityHazard": "none",

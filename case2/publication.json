@@ -5,17 +5,23 @@
     ],
     "conformsTo": "https://www.w3.org/TR/audiobooks/",
     "type": "Audiobook",
-    "id": "forward_example02",
-    "url": "https://dpublishing.github.io/Audiobooks/",
+    "id": "urn:uuid:041348f3-26b0-43f7-a566-c04942db0b76",
+    "url": "https://dpublishing.github.io/audiobooks-samples/",
     "name": "前進",
-    "author": "賴和",
-    "readBy": "張心哲",
-    "abridged": true,
-    "accessMode": ["audio", "text"],
+    "author": {
+        "type": "Person",
+        "name": "賴和"
+    },
+    "readBy": {
+        "type": "Person",
+        "name": "張心哲"
+    },
+    "abridged": false,
+    "accessMode": ["auditory", "textual"],
     "accessModeSufficient": [{
         "type": "ItemList",
-        "itemListElement": ["audio", "text"],
-        "description": "audio and text"
+        "itemListElement": ["auditory", "textual"],
+        "description": "有聲書搭配輔助文字以及同步字幕"
     }],
     "accessibilityFeature": ["readingOrder", "unlocked", "tableOfContents", "highContrastDisplay"],
     "accessibilityHazard": "none",
@@ -27,7 +33,7 @@
     "duration": "PT610S",
     "readingOrder": [
         {
-            "url": "https://dpublishing.github.io/Audiobooks/forward.mp3",
+            "url": "https://dpublishing.github.io/audiobooks-samples/forward.mp3",
             "encodingFormat": "audio/mpeg",
             "name": "前進",
             "duration": "PT610S",

@@ -5,21 +5,27 @@
     ],
     "conformsTo": "https://www.w3.org/TR/audiobooks/",
     "type": "Audiobook",
-    "id": "forward_example01",
-    "url": "https://dpublishing.github.io/Audiobooks/",
+    "id": "urn:uuid:2131a290-4ab0-420d-a2ac-8adc7e9d20ae",
+    "url": "https://dpublishing.github.io/audiobooks-samples/",
     "name": "前進",
-    "author": "賴和",
-    "readBy": "張心哲",
-    "abridged": true,
-    "accessMode": ["audio", "text"],
+    "author": {
+        "type": "Person",
+        "name": "賴和"
+    },
+    "readBy": {
+        "type": "Person",
+        "name": "張心哲"
+    },
+    "abridged": false,
+    "accessMode": ["auditory", "textual"],
     "accessModeSufficient": [{
         "type": "ItemList",
-        "itemListElement": ["audio", "text"],
-        "description": "audio and text"
+        "itemListElement": ["auditory", "textual"],
+        "description": "有聲書搭配輔助文字以及同步字幕"
     }],
     "accessibilityFeature": ["readingOrder", "unlocked", "tableOfContents", "highContrastDisplay"],
     "accessibilityHazard": "none",
-    "accessibilitySummary": "有聲內容在PEP中具目錄，也有獨立目錄，並提供同步旁白，音訊位於遠端。.",
+    "accessibilitySummary": "有聲內容在PEP中具目錄，也有獨立目錄，並提供同步旁白，音訊位於遠端。",
     "dateModified": "2020-12-15",
     "datePublished": "1928",
     "inLanguage": "zh-TW", 
@@ -27,7 +33,7 @@
     "duration": "PT610S",
     "readingOrder": [
         {
-            "url": "https://dpublishing.github.io/Audiobooks/forward.mp3",
+            "url": "https://dpublishing.github.io/audiobooks-samples/forward.mp3",
             "encodingFormat": "audio/mpeg",
             "name": "前進",
             "duration": "PT610S",
